@@ -21,6 +21,3 @@ if %ERRORLEVEL% EQU 0 Echo JAVA instalado correctmanete.   %ERRORLEVEL%
 REM Adobe Reader
 winget install Adobe.AdobeAcrobatReaderDC
 if %ERRORLEVEL% EQU 0 Echo Adobe Reader instalado correctmanete.   %ERRORLEVEL%
-REM JAVA
-winget install Oracle.JavaRuntimeEnvironment
-if %ERRORLEVEL% EQU 0 Echo JAVA instalado correctmanete.   %ERRORLEVEL%
