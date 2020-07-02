@@ -4,7 +4,7 @@ REM Firefox
 winget install Microsoft.Firefox
 if %ERRORLEVEL% EQU 0 Echo Se ha instalado Firefox de manera correcta.  
 REM Terminal  
-winget install Microsoft.WindowsTerminal  
+winget install Microsoft.WindowsTerminalPreview
 if %ERRORLEVEL% EQU 0 Echo Terminal instalado correctmanete.   %ERRORLEVEL%
 REM 7zip  
 winget install 7zip.7zip
